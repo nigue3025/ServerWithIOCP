@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (IocpTest.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  source.cpp
+C:\Users\nigue\Documents\GitHub\IOCP_samples\ServerWithIOCP\IocpSimpleEchoServer\IocpSimpleEchoServer\source.cpp(68,19): warning C4101: 'recvBytes': 未參考的區域變數
+  IocpSimpleEchoServer.vcxproj -> C:\Users\nigue\Documents\GitHub\IOCP_samples\ServerWithIOCP\IocpSimpleEchoServer\x64\Debug\IocpSimpleEchoServer.exe
